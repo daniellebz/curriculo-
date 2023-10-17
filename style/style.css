@@ -14,7 +14,7 @@ body {
 
     /* Cria um gradiente de cores de cima para baixo como plano de fundo */
     
-    background: linear-gradient(to bottom, #800080, #1E90FF);
+    background: linear-gradient(to bottom, #000080, #800080, #000000);
      
       
     /* Define o tamanho de fundo para cobrir toda a área disponível */
